@@ -167,6 +167,11 @@ export const socialMedia = [
     img: "/link.svg",
     link: "https://www.linkedin.com/in/biswajeet-das-4a31a3412",
   },
+  {
+    name: "Instagram",
+    img: "/insta.svg",
+    link: "https://www.instagram.com/____________.___________94?bqrl=MTU0Y3U5NWZzbnFuNA==",
+  },
 ] as const;
 
 export const techStack = {
