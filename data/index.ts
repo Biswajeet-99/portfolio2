@@ -130,8 +130,8 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Higher Secondary — Harindabala Shram",
-    desc: "Completed higher secondary education at Harindabala Shram, developing strong analytical skills, academic discipline, and an early interest in computing and technology.",
+    title: "Higher Secondary — Hariharananda Balashram",
+    desc: "Completed higher secondary education at Hariharananda Balashram, developing strong analytical skills, academic discipline, and an early interest in computing and technology.",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
